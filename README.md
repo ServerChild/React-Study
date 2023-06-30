@@ -1,4 +1,6 @@
 # React Study
 
-- 2023.06.02 : Rendering Elements \_ 시계 만들기(실습) 추가
-- 2023.06.28 : Components and Props \_ 댓글 컴포넌트 만들기(실습) 추가
+- Chapter03 : JSX \_ 코드 작성(실습) 추가
+- Chapter04 : Rendering Elements \_ 시계 만들기(실습) 추가
+- Chapter05 : Components and Props \_ 댓글 컴포넌트 만들기(실습) 추가
+- Chapter06 : State and Lifecycle \_ state 사용(실습) 추가
