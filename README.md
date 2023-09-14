@@ -12,3 +12,4 @@
 - Chapter12 : Lifting State Up \_ 섭씨온도와 화씨온도 표시하기(실습) 추가
 - Chapter13 : Composition vs Inheritance \_ Card 컴포넌트 만들기(실습) 추가
 - Chapter14 : Context \_ Context를 사용한 테마 변경 기능 만들기(실습) 추가
+- Chapter15 : Styling \_ styled-component를 사ㅇ하여 스타일링(실습) 추가
